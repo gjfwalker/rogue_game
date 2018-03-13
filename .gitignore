@@ -1,0 +1,9 @@
+Debug/*
+Release/*
+maps/*
+res/*
+ascii_roguelike.vcxproj
+ascii_roguelike.vcxproj.filters
+ascii_roguelike.vcxproj.user
+stdafx.h
+targetver.h
